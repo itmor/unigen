@@ -1,3 +1,5 @@
+🌍 Use online -> https://itmor.github.io/unigen/
+
 ![Скриншот 1](build/img/screen1.png)
 Sticky panel
 ![Скриншот 2](build/img/screen2.png)
